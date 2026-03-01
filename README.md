@@ -90,7 +90,7 @@ We compared **4 classifier types** across 7 total model runs:
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python**
 - pandas, NumPy, matplotlib, seaborn
 - scikit-learn (LogisticRegression, GaussianProcessClassifier, GaussianNB, SVC)
 - statsmodels (OLS regression)

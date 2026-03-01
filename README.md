@@ -97,17 +97,6 @@ We compared **4 classifier types** across 7 total model runs:
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/YOUR_USERNAME/online-course-engagement.git
-cd online-course-engagement
-pip install -r requirements.txt
-jupyter notebook Assingment_1_Final.ipynb
-```
-
----
-
 ## 📄 License
 
-This project was completed as part of academic coursework at the University of Chicago. Dataset sourced from Kaggle.
+This project was completed as part of academic coursework at the Concordia University. Dataset sourced from Kaggle.

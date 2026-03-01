@@ -2,7 +2,7 @@
 
 > Predicting whether students will complete an online course based on engagement behavior.
 
-**Course:** MSCA 691 — Machine Learning | University of Chicago  
+**Course:** MSCA 691 — Machine Learning | Concordia University 
 **Team:** Sarb, Helen, Sunicha
 
 ---

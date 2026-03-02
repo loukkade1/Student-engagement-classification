@@ -13,7 +13,7 @@
 Online learning platforms face significant student dropout rates. This project builds classification models to predict course completion using student engagement metrics — enabling early intervention and personalized learning experiences.
 
 **Task:** Binary Classification (Completed vs. Not Completed)  
-**Dataset:** [Online Course Engagement Data]([https://www.kaggle.com/](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-course-engagement-dataset)) — ~9,000 student records, 9 columns  
+**Dataset:** [Online Course Engagement Data]([https://www.kaggle.com/datasets/rabieelkharoua/predict-online-course-engagement-dataset]) — ~9,000 student records, 9 columns  
 **Best Model:** Support Vector Classification (RBF kernel + hyperparameter tuning) — **86.89% test accuracy**
 
 ---

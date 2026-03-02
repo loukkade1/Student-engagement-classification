@@ -3,6 +3,7 @@
 > Predicting whether students will complete an online course based on engagement behavior.
 
 **Course:** MSCA 691 — Advanced Data Mining | Concordia University 
+
 **Team:** Sarb, Helen, Sunicha
 
 ---
